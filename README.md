@@ -3,7 +3,7 @@
 # Authors
 The project will be created by three wonderful IT specialists  who were lucky enough to meet while studying at the Chita Institute of Baikal State University in the Faculty of Computer Science and Higher Mathematics in the group "ИСТУ-18" :heart: :smiling_face_with_three_hearts:.
 
-__Wonderfull UI/UX Designer:__ Julia Andreeva :woman_technologist:
+__Wonderfull UI/UX Designer:__ Yuliya Andreeva :woman_technologist:
 
 __Wonderfull Backend & AI developer:__ Valeria Shelepnevich :woman_technologist:
 
